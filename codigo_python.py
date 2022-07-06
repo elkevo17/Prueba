@@ -10,3 +10,6 @@ while 20>x:
 	print(x)
 print("aprendiendo git")
 
+for i in range(5)
+       print(i)
+
