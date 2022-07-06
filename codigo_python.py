@@ -8,3 +8,5 @@ x = 10
 while 20>x:
 	x = x + 1
 	print(x)
+print("aprendiendo git")
+
